@@ -1,6 +1,7 @@
 # CERN RPC-BIL Prototype Study
 [![DOI](https://img.shields.io/badge/DOI-10.17181%2Fhnh3m--re005-blue)](https://doi.org/10.17181/hnh3m-re005)
 
+https://doi.org/10.17181/hnh3m-re005
 **Test of the first RPC-BIL prototype in view of the Mechanics Final Design Review**
 
 CERN Summer Student project investigating the first **RPC-BIL prototype** for the ATLAS Muon Spectrometer upgrade.
